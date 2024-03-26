@@ -2,11 +2,13 @@
 - [ABM](https://github.com/appeldaniel1998/ABM-Improved) - Android application for SMBs, client and appointment management
 - [Unreal Engine](https://github.com/appeldaniel1998/Unreal_Engine_Plugin_UE)/[Python](https://github.com/appeldaniel1998/Unreal_Engine_Plugin_Python) plugin for UE, enabling AI-driven vehicle and drone piloting for use in reinforcement learning and other AI techniques.
 
+
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=appeldaniel1998&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=appeldaniel1998&layout=compact)
 
-
+-->
 
 <!--
 **appeldaniel1998/appeldaniel1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
